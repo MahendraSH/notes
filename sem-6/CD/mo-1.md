@@ -21,4 +21,10 @@
 
 # Questions
 
+* explain the phases of compiler with example  also with neat lable diagram  --12 marks
+* Briefly explain get-token function find the token type returned when  the following    source code is given as input to get-token function  
+```a[index]= 4+2```
+* list and explain any five flags used in tiny compler along with its effects when it is set
+* Design a DFA for tiny Scanner .Also metion how to you  distinguish between ID and reserved words 
+
 
