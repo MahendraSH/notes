@@ -38,8 +38,38 @@
         * Integrity (Modification, Masquerading, Replaying and Repudiation)  --active attacks
         * Availability (Denial of service) --attack attacks
         * passive vs active attacks
-        
+
 -------------------------------------------
+* ### Services and mechanisms
+* #### services
+   ![Servies ](img/service.png.jpg)
+* #### mechanisms
+    * Encipherment
+    *  Data Integrity
+    *  Digital Signature
+    *  Authentication exchange
+    *  Traffic padding
+    *  Routing control
+    * Notarization
+    *  Access control
+
+* services and mechanisms relation 
+    ![mechanisms][img/mechanisms.png]
+
+------------------------------------
+* ###  Techniques.
+    * #### crytography (Cryptography – art of secret writing)
+        * Symmetric key Encipherment
+        * Asymmetric key Encipherment
+        * Hashing
+
+    * #### steganography(covered writing)
+        * text cover 
+        * image cover
+        * other cover
+-------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------
 
 
 
