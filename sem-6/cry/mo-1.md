@@ -54,7 +54,8 @@
     *  Access control
 
 * services and mechanisms relation 
-    ![mechanisms][img/mechanisms.png]
+
+    ![mechanisms](./img/mechanisms.png)
 
 ------------------------------------
 * ###  Techniques.
