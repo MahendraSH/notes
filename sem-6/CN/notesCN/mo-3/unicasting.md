@@ -7,3 +7,6 @@
 netwrok to delivery of the packet to the destination host 
 
 {image usincasing image page : 640  fig : 21.1 }
+
+#### note :
+* the routers are configured for unicast routing 
