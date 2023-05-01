@@ -40,7 +40,11 @@
     * in muticasting there is no delay because only one packet is created by the source 
 
 ### muticast applicatons 
-<!--  must be done  -->
+ * Acces to distributed databases - Mogodb clusters 
+ * infonmation disemination - Business can send all same the message to consumers {eg: software update}
+ * Teleconferencing - conference call
+ * Distance learing - online class 
+ 
 
     
 
