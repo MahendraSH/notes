@@ -43,7 +43,5 @@
   - this infomation is tramited priodically if a new member is added to the same group or a member left the group
   - only member containing networks or networks that are intermidiate for network containg members recive the muticast packet
 
-  {image RPF versus RPB page :652 }
-  {image RPB versus RPM page :653 }
-
-  
+  {image RPF versus RPB page :652 Figure 21.11 }
+  {image RPB versus RPM page :653 Figure 21.12}
