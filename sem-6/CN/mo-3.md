@@ -3,8 +3,14 @@
 * ### Multicast Routing: - 639 ( pages : 5)
     * Introduction,   
     *  Unicasting,   
-    * Multicasting,
+    * Multicasting, 
     *  broadcasting ,  -643   
+* ### muticasting baiscis 
+    * mulicast address 
+    * Delivery at Data-Link Layer
+    * Collecting Information about Groups
+    * Multicast Forwarding
+    * Two Approaches to Multicasting
 * ### Intra-domain Multicast Protocols:  - 650  (pages : 8)
     * DVMRP, 
     * PIM (DM),   - 657 
