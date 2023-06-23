@@ -10,6 +10,7 @@ public class Pro5 {
         int countLine=0;
         int countWords=0;
         int countChars =0;
+    
         while ((line = br.readLine()) != null) {
 
             System.out.println(line);

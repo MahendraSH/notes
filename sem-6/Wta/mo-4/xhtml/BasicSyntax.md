@@ -9,7 +9,9 @@ https://www.w3schools.com/html/html_xhtml.asp
 - ### <!DOCTYPE> is mandatory
 - ### The xmlns attribute in `<html>` is mandatory
 - ### `<html>`, `<head>`, `<title>`, and `<body> `are mandatory
-
+```xhtml
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+```
 ```xhtml
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 

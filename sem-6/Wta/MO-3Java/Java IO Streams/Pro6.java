@@ -20,6 +20,7 @@ public class Pro6 {
         while ((s= fin.readLine())!=null)
         {
             fout.write(s);
+            fout.newLine();
             s=null;
         }
 
