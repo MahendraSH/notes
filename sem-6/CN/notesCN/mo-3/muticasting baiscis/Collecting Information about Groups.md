@@ -26,5 +26,4 @@
   - one for tranfering the collected information
 - the collecting information is done using IGMP ( internet group message protocol )
 
-
-{image usincasing vs muticasting advertisment  page :648  fig : 21.8 }
+{image usincasing vs muticasting advertisment page :648 fig : 21.8 }

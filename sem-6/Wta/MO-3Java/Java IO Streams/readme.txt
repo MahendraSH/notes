@@ -58,7 +58,7 @@ br.readLine()  // prototype -> String readLine() throws IOException
 
 ### programs on reading from console
 
-```java
+```
 1. _____________________ pro1.java___________ br.read() ___________
 
 2. _____________________ pro2.java_____________br.readLine()_________
@@ -79,7 +79,7 @@ System.out
 
 ## using PrintWriter class
 
-```java
+```
 Pritwriter pw = new PrintWriter( System.out .true)
 pw.println();
 pw.print();
@@ -90,7 +90,7 @@ pw.print();
 
 ### program on PrintWriter class
 
-```java
+```
 
 3. _____________________ pro3.java___________ PrintWriter ___________
 
@@ -98,7 +98,7 @@ pw.print();
 
 # reading and writing files
 
-```java
+```
 FileInputStream()
 FileOutputStream()
 FileNotFoundException
@@ -107,7 +107,7 @@ FileNotFoundException
 
 ### program on reading input from file
 
-```java
+```
 
 4. _____________________ pro4.java___________reading file  using FileReader increaing its effeciency using char buffer
 
